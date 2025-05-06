@@ -1,0 +1,7 @@
+confluent_kafka :-
+
+pip install confluent_kafka
+
+pymongo:-
+
+pip install pymongo
